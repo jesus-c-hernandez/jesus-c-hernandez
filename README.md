@@ -24,10 +24,3 @@
     };
 ```
 
-<div>
-    <p style = 'font-style: italic'>
-    <img src="https://cdn-icons-png.flaticon.com/512/5828/5828043.png?format=jpg&name=small" width         ="40px">
-    I like to meet people and create amazing experiences that can be remembered and bring joy.
-    <p/>
-<div/>
-
