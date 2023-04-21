@@ -19,9 +19,8 @@
 ```
     const jesusHdez = {
         code: [Javascript, Typescript, HTML, CSS, Java],
-        tools: [Angular, Node, Express, Mongo, Vue, Agile Methodology, Linux],
+        tools: [Angular, Node, Express, MongoDB, Agile Methodology, Linux],
         architecture: ["MVC"]
-        challenge: "Learn React, improve my soft skills and english language."
     };
 ```
 
